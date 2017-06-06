@@ -1,6 +1,6 @@
 # Gets all tweets from an account
 
-This is a modified script I found here [here](https://gist.github.com/yanofsky/5436496#file-tweet_dumper-py)
+This is a modified script I found [here](https://gist.github.com/yanofsky/5436496#file-tweet_dumper-py)
 all credit goes to [yanofsky](https://github.com/yanofsky)
 
 ### Requirements
